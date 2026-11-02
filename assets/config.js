@@ -4,7 +4,7 @@ const CONFIG = {
   dataOficina: "2026-11-05",          // formato AAAA-MM-DD
   dataExtenso: "5 de novembro de 2026 (quinta-feira)",
   horario: "9h às 17h",
-  pagina: "https://maryandrioli.github.io/iagestao/",
+  pagina: "https://maryandrioli.github.io/iagestao2/",
   links: {
     diagnostico: "",                   // link curto do formulário 1 (Google Forms): início e fim da oficina
     avaliacao: "",                     // link curto do formulário 2 (Google Forms): avaliação da oficina
